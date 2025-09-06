@@ -1,0 +1,20 @@
+{
+  "name": "tiny-utils",
+  "version": "1.0.0",
+  "description": "A lightweight, general-purpose JavaScript utility library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utilities",
+    "string",
+    "date",
+    "math",
+    "array",
+    "object"
+  ],
+  "author": "Rakesh Kr. Dey",
+  "license": "MIT"
+}

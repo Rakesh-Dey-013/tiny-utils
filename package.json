@@ -1,5 +1,5 @@
 {
-  "name": "tiny-utils",
+  "name": "tiny-utils-js",
   "version": "1.0.3",
   "description": "A lightweight, general-purpose JavaScript utility library",
   "main": "index.js",
